@@ -4,12 +4,12 @@ If you have any questions about how to use git, [this is a decent tutorial.](htt
 
 ## Group
 
-James Amidei
-Max Markgraf
+James Amidei  <br>
+Max Markgraf  <br>
 Zach Stedman 
 
 ## Experiments
 
-Gamma Spectroscopy
-H2/D2 Spectroscopy
+Gamma Spectroscopy  <br>
+H2/D2 Spectroscopy  <br>
 Taylor-Couette Experiment 
