@@ -8,7 +8,7 @@
 
 ## Experiments
 
-1. Gamma Spectroscopy  <br>
+1. Gamma Spectroscopy &check;  <br>
 2. H2/D2 Spectroscopy  <br>
 3. Taylor-Couette Experiment
    
