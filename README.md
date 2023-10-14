@@ -8,8 +8,11 @@
 
 ## Experiments
 
-1. Gamma Spectroscopy  <br>
+1. Gamma Spectroscopy &check;  <br>
 2. H2/D2 Spectroscopy  <br>
+   * https://emtoolbox.nist.gov/Wavelength/Edlen.asp
+   * https://physics.nist.gov/PhysRefData/Handbook/Tables/mercurytable2.htm
+   * https://en.wikipedia.org/wiki/Balmer_series
 3. Taylor-Couette Experiment
    
 ## Group
