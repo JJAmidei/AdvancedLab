@@ -1,0 +1,40 @@
+Wavelengths and Indices of Refraction
+-------------------------------------
+
+Number 1
+
+656.279 Nanonmeters [nm]
+n = 1.000224458
+
+Number 2
+
+486.135 Nanometers [nm]
+n = 1.000186905
+
+Number 3
+
+434.0472 Nanometeres [nm]
+n = 1.000228641 
+
+Number 4
+
+410.1734 Nanometers [nm]
+n = 1.000228751
+
+Number 5
+
+397.0075 Nanometers [nm]
+n = 
+
+Number 6
+
+388.9064 Nanometers [nm]
+n = 1.000230491
+
+Number 7
+
+383.5397 Nanometers [nm]
+n = 
+
+
+
