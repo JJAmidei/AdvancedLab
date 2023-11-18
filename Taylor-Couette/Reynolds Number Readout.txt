@@ -1,0 +1,83 @@
+Rotation rate v1 = 0.010692 * Re1
+Rotation rate v2 = 0.007002 * Re2
+Using port COM1
+LD3
+MC
+b'A0.10\r'
+1V0
+1G
+2V0
+2G
+TC> re1 65
+Re1= 65.0
+Actual Re1=65.00 v1=0.695/s
+Setting CW rotation for cylinder 1
+b'1H+\r'
+b'1V0.695\r1G\r'
+Waiting 6.950 seconds
+Re1=65.00 v1=0.695/s
+mu = 0.000
+TC> re1 67.5
+Re1= 67.5
+Actual Re1=67.52 v1=0.722/s
+b'1VC0.722\r'
+Waiting 0.270 seconds
+Re1=67.52 v1=0.722/s
+mu = 0.000
+TC> re1 70.0
+Re1= 70.0
+Actual Re1=69.96 v1=0.748/s
+b'1VC0.748\r'
+Waiting 0.260 seconds
+Re1=69.96 v1=0.748/s
+mu = 0.000
+TC> re1 72.5
+Re1= 72.5
+Actual Re1=72.48 v1=0.775/s
+b'1VC0.775\r'
+Waiting 0.270 seconds
+Re1=72.48 v1=0.775/s
+mu = 0.000
+TC> re1 75.0
+Re1= 75.0
+Actual Re1=75.01 v1=0.802/s
+b'1VC0.802\r'
+Waiting 0.270 seconds
+Re1=75.01 v1=0.802/s
+mu = 0.000
+TC> 77.5
+Input must begin with the characters s, f, c, re1, re2, or g
+TC> re1 68.5
+Re1= 68.5
+Actual Re1=68.46 v1=0.732/s
+b'1VC0.732\r'
+Waiting 0.700 seconds
+Re1=68.46 v1=0.732/s
+mu = 0.000
+TC> re1 69.5
+Re1= 69.5
+Actual Re1=69.49 v1=0.743/s
+b'1VC0.743\r'
+Waiting 0.110 seconds
+Re1=69.49 v1=0.743/s
+mu = 0.000
+TC> re1 67.5
+Re1= 67.5
+Actual Re1=67.52 v1=0.722/s
+b'1VC0.722\r'
+Waiting 0.210 seconds
+Re1=67.52 v1=0.722/s
+mu = 0.000
+TC> re1 67.0
+Re1= 67.0
+Actual Re1=66.96 v1=0.716/s
+b'1VC0.716\r'
+Waiting 0.060 seconds
+Re1=66.96 v1=0.716/s
+mu = 0.000
+TC> s
+b'1AC0.10\r1S\r'
+Stopping: waiting 7.160 seconds
+Re1=0.00 v1=0.000/s
+Re2=0.00 v2=0.000/s
+Done
