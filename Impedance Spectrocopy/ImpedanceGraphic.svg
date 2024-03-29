@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="ImpedanceGraphic.svg"
+   inkscape:export-filename="ImpedanceGraphic.png"
+   inkscape:export-xdpi="48.380951"
+   inkscape:export-ydpi="48.380951"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.69130191"
+     inkscape:cx="364.52959"
+     inkscape:cy="455.66199"
+     inkscape:window-width="1898"
+     inkscape:window-height="952"
+     inkscape:window-x="0"
+     inkscape:window-y="2"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs2">
+    <rect
+       x="594.5304"
+       y="179.3717"
+       width="112.83059"
+       height="53.522201"
+       id="rect1770" />
+    <rect
+       x="94.025489"
+       y="860.69486"
+       width="216.9819"
+       height="76.666937"
+       id="rect1764" />
+    <rect
+       x="248.80591"
+       y="151.88733"
+       width="380.44159"
+       height="99.811673"
+       id="rect1696" />
+    <rect
+       x="189.49752"
+       y="866.48105"
+       width="435.41034"
+       height="94.025489"
+       id="rect1690" />
+    <rect
+       x="622.01477"
+       y="784.02792"
+       width="53.522201"
+       height="49.182564"
+       id="rect1684" />
+    <rect
+       x="483.14636"
+       y="316.79357"
+       width="112.83059"
+       height="118.61677"
+       id="rect1678" />
+    <rect
+       x="350.06413"
+       y="209.74917"
+       width="284.96956"
+       height="134.52878"
+       id="rect1622" />
+    <rect
+       x="28.93092"
+       y="371.76232"
+       width="75.220391"
+       height="72.327299"
+       id="rect1564" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Axes">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3.35685;stroke-dasharray:none;stroke-opacity:1"
+       d="m 35.21134,33.426 v 140"
+       id="path1486" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3.35685;stroke-dasharray:none;stroke-opacity:1"
+       d="m 173.772,171.84665 h -140"
+       id="path1486-9" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0,-0.50142004,0.67368421,0,-118.24554,290.77115)"
+       id="text1620"
+       style="white-space:pre;shape-inside:url(#rect1622);display:inline;fill:#280b0b;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="350.06445"
+         y="220.69796"
+         id="tspan3454">Reactance</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.80757098,0,0,0.68770987,-372.40297,-184.35669)"
+       id="text1676"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect1678);display:inline;fill:#280b0b;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="483.14648"
+         y="327.74093"
+         id="tspan3456">jX</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.83116883,0,0,0.68770987,-351.17535,-364.45029)"
+       id="text1682"
+       style="white-space:pre;shape-inside:url(#rect1684);display:inline;fill:#280b0b;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="622.01562"
+         y="794.97531"
+         id="tspan3458">R</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.48256362,0,0,0.66928105,1.6864267,-404.35574)"
+       id="text1688"
+       style="white-space:pre;shape-inside:url(#rect1690);display:inline;fill:#280b0b;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="189.49805"
+         y="877.42843"
+         id="tspan3460">Resistance</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.17483631,0,0,0.18915432,-21.864333,-5.6890891)"
+       id="text1694"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.7996px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect1696);display:inline;fill:#280b0b;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="248.80664"
+         y="182.72312"
+         id="tspan3462">Imaginary 
+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.89814px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#280b0b;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+       x="181.59895"
+       y="149.55777"
+       id="text1702"
+       transform="scale(0.89089756,1.1224635)"><tspan
+         sodipodi:role="line"
+         id="tspan1700"
+         style="stroke-width:0"
+         x="181.59895"
+         y="149.55777">Real</tspan></text>
+    <path
+       style="fill:#280b0b;fill-opacity:1;stroke:#000000;stroke-width:0.9;stroke-dasharray:none;stroke-opacity:1"
+       d="M 35.21134,171.7808 158.0683,44.713794"
+       id="path1760" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.18931756,0,0,0.18473303,78.817946,-98.8808)"
+       id="text1762"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.7996px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect1764);display:inline;fill:#280b0b;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="94.025391"
+         y="891.53171"
+         id="tspan3464">Impedance</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.31286972,0,0,0.24416025,-42.203795,16.295531)"
+       id="text1768"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.7996px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect1770);display:inline;fill:#280b0b;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="594.53125"
+         y="210.20749"
+         id="tspan3466">Z</tspan></text>
+    <path
+       style="fill:#280b0b;fill-opacity:1;stroke:#000000;stroke-width:0.6;stroke-dasharray:0.6,1.8;stroke-opacity:1;stroke-dashoffset:0"
+       d="M 157.30283,44.779639 V 171.08118"
+       id="path1774" />
+    <path
+       style="fill:#280b0b;fill-opacity:1;stroke:#000000;stroke-width:0.594753;stroke-dasharray:0.594753, 1.78424;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 34.063146,45.162374 H 158.16515"
+       id="path1774-2" />
+  </g>
+</svg>
