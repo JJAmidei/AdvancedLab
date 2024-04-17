@@ -1,0 +1,55 @@
+# DATA ANALYSIS
+--------------------
+The pivotal method used in analyzing the current-voltage data is the use of a semi-log plot, where fitting a straight line to an appropriate portion of the data in this plot will give a slope from which the plasma temperature may be obtained.
+
+An excellent approach to understanding the data is described in the paper:
+
+Merlino, R. K., "Understanding Langmuir probe current-voltage characteristics", Am. J. Phys. 75, 1078-1087 (2007). 
+
+Use the library's journal access to find this paper and read it all the way through. There are many ideas in the article so you should focus on Sections II A 1 and 2 and II B 1.
+
+= = = = = = = = = = = = = = = 
+
+Work through these exercises to understand the approach to data analysis. (You should turn in at least two of your answers.)
+
+EXERCISE 1 Explain in your own words why there is an exponential form for the dependence of ion or electron current on voltage when for ions V_B ≥ V_P and for electrons V_B ≤ V_P.
+
+EXERCISE 2 Use equations 1 and 5 from Merlino to write down an expression for the total current measured when the bias potential is less than the plasma potential:  V_B < V_P.
+
+EXERCISE 3 Solve this equation for the electron current I_e in terms of the ion saturation current I_is and the bias potential V_B.
+
+EXERCISE 4 Write down an equation for the natural log of the electron current.
+
+EXERCISE 5 Find an expression for the uncertainty of the natural log of the current  in terms of the uncertainty of the current. (Note: In the instrumentation portion of this experiment you should find information that lets you estimate the instrumental uncertainty in the current measurements. You can and should repeat measurements to empirically identify the current uncertainties.)
+
+EXERCISE 6 Write down an expression for the slope of a plot of the natural log of electron current I_e versus bias potential.
+
+ = = = = = = = = = = = =
+
+Use your data to estimate the ion saturation current.
+
+Subtract your estimate of the ion saturation current from the total current to construct a column of values of the electron current.
+
+Plot the natural log of the electron current versus the bias potential.
+
+Select the range of data (if any) for which a linear fit is appropriate.  Find the slope using linear regression. (Be sure to include estimates of the uncertainties of the regression slope and intercept.) Explain your choice of data range.
+
+(Is it appropriate to fit more than one range?)
+
+Use EXERCISE 6 to use the best-fit slope to calculate the electron temperature, expressed both in electron volts (energy equivalent) and kelvin.
+
+Do an error analysis to estimate the uncertainty of the temperature.
+
+= = = = = = = = = = = = 
+
+Additional items to extract from the data:
+
+What is a value for the floating potential V_f? Explain how you arrived at this.
+
+Estimate the plasma potential V_P. Explain how you arrived at this.
+
+List both the ion and electron saturation currents.
+
+= = = = = = = = = = = = 
+
+OPTIONAL (but recommended): use an estimate of the diameter and length of the Langmuir probe to estimate the surface area of the probe. Then use the electron saturation current and Equation 6 of Merlino to estimate the electron density n_e.
